@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    text-align: center;
+}
+
+h1{
+    background-color: black;
+    color: white;
+
+}
+
+img{
+    border: solid thick white;
+}
+
+p{
+    background-color: black;
+    color: white;
+}
